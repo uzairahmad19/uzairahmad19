@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Uzair+Ahmad+%F0%9F%91%8B;Building+Scalable+Backends;Solving+LeetCode+(560%2B);Architecting+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Uzair+Ahmad+%F0%9F%91%8B;Building+Scalable+Backends;Solving+LeetCode+(560%2B);Architecting+Cloud+Systems" alt="Typing SVG" />
 
   <p align="center">
     <b>Backend Engineer</b> • <b>Java Specialist</b> • <b>System Design Enthusiast</b>
@@ -54,12 +54,12 @@ I’m a software engineer who doesn't just write code—I **engineer systems**. 
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairahmad19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmad19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairahmad19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmad19&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairahmad19&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairahmad19&theme=radical" width="100%" />
 </div>
 
 ---
