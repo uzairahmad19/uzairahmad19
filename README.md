@@ -54,7 +54,7 @@ I’m a software engineer who doesn't just write code—I **engineer systems**. 
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairahmad19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairahmad19&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmad19&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
 </div>
 
