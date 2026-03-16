@@ -121,7 +121,6 @@ Cut page load times **40%** via SSR optimization. Shipped REST APIs handling **5
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=uzairahmad19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmad19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
