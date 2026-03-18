@@ -26,7 +26,6 @@ uzair = {
     "building"   : ["RAG systems", "distributed platforms", "AI interpreters"],
     "obsessed_with": ["LLMs", "low-latency APIs", "clean architecture"],
     "cgpa"       : 8.4,
-    "streak"     : "365-day LeetCode badge 🔥",
 }
 ```
 
@@ -79,17 +78,6 @@ uzair = {
 [![LeetCode Stats](https://leetcard.jacoblin.cool/uzair2004ahmad?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/uzair2004ahmad/)
 
 </div>
-
----
-
-## `🏆 achievements`
-
-```
-🔥  560+ DSA problems solved on LeetCode  |  365-Day Consistency Badge
-🥉  3rd Place — Tezos Coding Jam Hackathon
-✅  HackerRank Certified Software Engineer
-✅  HackerRank Certified Java (Basics)
-```
 
 ---
 
