@@ -32,57 +32,6 @@ uzair = {
 
 ---
 
-## `⚡ featured projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 LectureLens
-> RAG-based AI Teaching Assistant
-
-Built an end-to-end pipeline that **transcribes lecture videos** and answers natural language queries with **timestamped precision**.
-
-`Python` `LLaMA 3.2` `BGE-M3` `Whisper` `Flask`
-
-</td>
-<td width="50%">
-
-### 💳 FinTech Microservices Platform
-> Distributed Payment System
-
-Architected a payment system processing **1,000+ TPS** via Apache Kafka with **99.9% availability** — decoupled, resilient, ACID-compliant.
-
-`Java` `Spring Boot` `Kafka` `Eureka` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 EZScript
-> Hybrid AI Interpreter
-
-A programming language where you can **write code or describe it in plain English** — the AI transpiler handles the rest.
-
-`Core Java` `Compiler Design` `LLM APIs`
-
-</td>
-<td width="50%">
-
-### 🏢 Lumiproject @ Lumiorc
-> Production Full-Stack App
-
-Cut page load times **40%** via SSR optimization. Shipped REST APIs handling **500+ daily requests** under 100ms. Slashed deployment time **50%** with Docker + CI/CD.
-
-`Next.js` `Flask` `Docker` `GitHub Actions`
-
-</td>
-</tr>
-</table>
-
----
-
 ## `🛠 tech stack`
 
 **Languages**
