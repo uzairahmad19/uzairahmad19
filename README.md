@@ -69,13 +69,13 @@ uzair = {
 
 <div align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzairahmad19)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzairahmad19&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmad19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmad19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
